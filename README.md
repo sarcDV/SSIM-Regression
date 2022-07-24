@@ -9,4 +9,5 @@ predicted SSIM values were grouped into 10 classes and compared against the grou
 motion classes, the best weighted accuracy of 89 ± 2% was observed with RN-18 model,
 trained with contrast augmentation.
 
-[Link to PDF](https://openreview.net/pdf?id=24cqMfboXhH)
+This work was presented at "Medical Imaging with Deep Learning, Zürich, 6 – 8 July 2022"
+[MIDL 2022 SHORT PAPER PDF](https://openreview.net/pdf?id=24cqMfboXhH)
