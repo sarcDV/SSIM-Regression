@@ -8,3 +8,5 @@ trained models are able to regress the SSIM values with high level of accuracy. 
 predicted SSIM values were grouped into 10 classes and compared against the ground-truth
 motion classes, the best weighted accuracy of 89 ± 2% was observed with RN-18 model,
 trained with contrast augmentation.
+
+[Link to PDF](https://openreview.net/pdf?id=24cqMfboXhH)
